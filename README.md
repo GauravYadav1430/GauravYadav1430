@@ -29,16 +29,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-### 🔹 Agrivison  
-> Smart Potato Disease Detection Project using ML, CNN   
-
-### 🔹 Mess Food ML Pipeline  
-> Predicts demand & reduces food wastage using ML  
- 
-
----
 
 ## 🌐 Connect With Me  
 
